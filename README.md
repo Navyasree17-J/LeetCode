@@ -10,6 +10,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0416-partition-equal-subset-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1656-count-good-triplets](https://github.com/Navyasree17-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Navyasree17-J/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -112,4 +113,8 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
