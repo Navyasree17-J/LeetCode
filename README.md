@@ -6,6 +6,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1656-count-good-triplets](https://github.com/Navyasree17-J/LeetCode/tree/master/1656-count-good-triplets) |
@@ -28,6 +29,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navyasree17-J/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1500-count-largest-group](https://github.com/Navyasree17-J/LeetCode/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -83,6 +85,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 ## String
 |  |
@@ -99,6 +102,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -129,4 +133,8 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
