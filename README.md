@@ -9,6 +9,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Navyasree17-J/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Navyasree17-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2249-count-the-hidden-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/2249-count-the-hidden-sequences) |
@@ -62,6 +63,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Navyasree17-J/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Navyasree17-J/LeetCode/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/2050-count-good-numbers) |
