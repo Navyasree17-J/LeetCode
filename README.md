@@ -200,6 +200,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Navyasree17-J/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Navyasree17-J/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Navyasree17-J/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
@@ -253,4 +254,12 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Navyasree17-J/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Navyasree17-J/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Navyasree17-J/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
