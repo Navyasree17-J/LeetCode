@@ -20,6 +20,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navyasree17-J/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Navyasree17-J/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navyasree17-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/2249-count-the-hidden-sequences) |
