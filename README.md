@@ -16,6 +16,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navyasree17-J/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Navyasree17-J/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Navyasree17-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navyasree17-J/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -147,6 +148,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1095-two-city-scheduling](https://github.com/Navyasree17-J/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Navyasree17-J/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
@@ -176,6 +178,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Navyasree17-J/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -271,6 +274,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/Navyasree17-J/LeetCode/tree/master/0868-push-dominoes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Graph
 |  |
