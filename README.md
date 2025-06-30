@@ -11,6 +11,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Navyasree17-J/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/Navyasree17-J/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -64,6 +65,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navyasree17-J/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Navyasree17-J/LeetCode/tree/master/1500-count-largest-group) |
@@ -147,6 +149,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | ------- |
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1095-two-city-scheduling](https://github.com/Navyasree17-J/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Navyasree17-J/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -208,6 +211,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Navyasree17-J/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -230,6 +234,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Navyasree17-J/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navyasree17-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
