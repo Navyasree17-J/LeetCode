@@ -119,6 +119,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0009-palindrome-number) |
+| [0227-basic-calculator-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navyasree17-J/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Navyasree17-J/LeetCode/tree/master/1500-count-largest-group) |
@@ -176,6 +177,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## String
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0868-push-dominoes](https://github.com/Navyasree17-J/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Navyasree17-J/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -283,6 +285,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Stack
 |  |
 | ------- |
+| [0227-basic-calculator-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Navyasree17-J/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
