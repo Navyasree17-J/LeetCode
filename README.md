@@ -123,6 +123,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Navyasree17-J/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -204,6 +205,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Navyasree17-J/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navyasree17-J/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/2050-count-good-numbers) |
