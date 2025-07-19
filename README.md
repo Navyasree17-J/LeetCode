@@ -128,6 +128,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0043-multiply-strings](https://github.com/Navyasree17-J/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Navyasree17-J/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Navyasree17-J/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Navyasree17-J/LeetCode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Navyasree17-J/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -154,6 +155,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Navyasree17-J/LeetCode/tree/master/0067-add-binary) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -189,6 +191,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Navyasree17-J/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Navyasree17-J/LeetCode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Navyasree17-J/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -378,6 +381,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Navyasree17-J/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Navyasree17-J/LeetCode/tree/master/0067-add-binary) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navyasree17-J/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
