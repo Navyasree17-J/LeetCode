@@ -6,6 +6,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Navyasree17-J/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/Navyasree17-J/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
@@ -125,6 +126,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0007-reverse-integer](https://github.com/Navyasree17-J/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Navyasree17-J/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Navyasree17-J/LeetCode/tree/master/0066-plus-one) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0273-integer-to-english-words](https://github.com/Navyasree17-J/LeetCode/tree/master/0273-integer-to-english-words) |
