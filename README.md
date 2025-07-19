@@ -122,6 +122,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Navyasree17-J/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Navyasree17-J/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
