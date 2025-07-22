@@ -57,6 +57,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
 |  |
@@ -178,6 +179,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/Navyasree17-J/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sorting
 |  |
@@ -334,6 +336,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Navyasree17-J/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navyasree17-J/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Two Pointers
 |  |
