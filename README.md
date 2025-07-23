@@ -214,6 +214,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1078-remove-outermost-parentheses](https://github.com/Navyasree17-J/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Navyasree17-J/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navyasree17-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -328,6 +329,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1078-remove-outermost-parentheses](https://github.com/Navyasree17-J/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Navyasree17-J/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navyasree17-J/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Greedy
 |  |
@@ -337,6 +339,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1095-two-city-scheduling](https://github.com/Navyasree17-J/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Navyasree17-J/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navyasree17-J/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Navyasree17-J/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Navyasree17-J/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navyasree17-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
