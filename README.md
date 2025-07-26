@@ -6,6 +6,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Navyasree17-J/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/Navyasree17-J/LeetCode/tree/master/0135-candy) |
@@ -86,6 +87,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
