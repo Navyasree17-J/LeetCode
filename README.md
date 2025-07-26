@@ -7,6 +7,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Navyasree17-J/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/Navyasree17-J/LeetCode/tree/master/0135-candy) |
@@ -89,6 +90,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Navyasree17-J/LeetCode/tree/master/0242-valid-anagram) |
@@ -206,6 +208,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Navyasree17-J/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0268-missing-number) |
@@ -222,6 +225,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Navyasree17-J/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Navyasree17-J/LeetCode/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/0227-basic-calculator-ii) |
