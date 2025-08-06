@@ -493,4 +493,8 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Navyasree17-J/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
