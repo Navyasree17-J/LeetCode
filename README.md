@@ -75,6 +75,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Navyasree17-J/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Navyasree17-J/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -293,6 +294,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2280-count-good-triplets-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -308,6 +310,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Navyasree17-J/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -316,6 +319,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -461,6 +465,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navyasree17-J/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
 |  |
 | ------- |
