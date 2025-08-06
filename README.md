@@ -277,6 +277,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Navyasree17-J/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Navyasree17-J/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navyasree17-J/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -496,5 +497,6 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Navyasree17-J/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
