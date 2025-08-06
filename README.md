@@ -162,6 +162,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Navyasree17-J/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Navyasree17-J/LeetCode/tree/master/0013-roman-to-integer) |
@@ -276,6 +277,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Navyasree17-J/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
@@ -497,6 +499,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Navyasree17-J/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
