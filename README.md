@@ -70,6 +70,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navyasree17-J/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -98,6 +99,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3618-find-the-original-typed-string-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Navyasree17-J/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navyasree17-J/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Hash Table
 |  |
 | ------- |
@@ -441,6 +443,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navyasree17-J/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Shortest Path
 |  |
 | ------- |
