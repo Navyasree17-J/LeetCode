@@ -113,6 +113,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0268-missing-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Navyasree17-J/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Navyasree17-J/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navyasree17-J/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -179,6 +180,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0273-integer-to-english-words](https://github.com/Navyasree17-J/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0728-self-dividing-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [0900-reordered-power-of-2](https://github.com/Navyasree17-J/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navyasree17-J/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Navyasree17-J/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navyasree17-J/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -222,6 +224,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Navyasree17-J/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/Navyasree17-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/Navyasree17-J/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -239,6 +242,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0347-top-k-frequent-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Navyasree17-J/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1095-two-city-scheduling](https://github.com/Navyasree17-J/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Navyasree17-J/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -369,6 +373,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/Navyasree17-J/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Navyasree17-J/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
