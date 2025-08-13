@@ -181,6 +181,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0231-power-of-two](https://github.com/Navyasree17-J/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Navyasree17-J/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Navyasree17-J/LeetCode/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0728-self-dividing-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0900-reordered-power-of-2](https://github.com/Navyasree17-J/LeetCode/tree/master/0900-reordered-power-of-2) |
@@ -299,6 +300,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Navyasree17-J/LeetCode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Navyasree17-J/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/Navyasree17-J/LeetCode/tree/master/0326-power-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navyasree17-J/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
