@@ -549,6 +549,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Navyasree17-J/LeetCode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Navyasree17-J/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Probability and Statistics
 |  |
