@@ -64,6 +64,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Navyasree17-J/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Navyasree17-J/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navyasree17-J/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -469,6 +470,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navyasree17-J/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
