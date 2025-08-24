@@ -29,6 +29,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Navyasree17-J/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Navyasree17-J/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Navyasree17-J/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Navyasree17-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -90,6 +91,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0867-new-21-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Navyasree17-J/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Navyasree17-J/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Navyasree17-J/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/Navyasree17-J/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -363,6 +365,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-new-21-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/Navyasree17-J/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Navyasree17-J/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Navyasree17-J/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Navyasree17-J/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
