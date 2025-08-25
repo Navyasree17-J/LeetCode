@@ -18,6 +18,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0347-top-k-frequent-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0498-diagonal-traverse](https://github.com/Navyasree17-J/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0679-24-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -481,6 +482,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/Navyasree17-J/LeetCode/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -513,6 +515,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | ------- |
 | [0043-multiply-strings](https://github.com/Navyasree17-J/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Navyasree17-J/LeetCode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/Navyasree17-J/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navyasree17-J/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2470-removing-stars-from-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
