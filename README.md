@@ -7,6 +7,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Navyasree17-J/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Navyasree17-J/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -117,6 +118,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | ------- |
 | [0001-two-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Navyasree17-J/LeetCode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Navyasree17-J/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -221,6 +223,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Navyasree17-J/LeetCode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
@@ -487,6 +490,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Navyasree17-J/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Navyasree17-J/LeetCode/tree/master/0498-diagonal-traverse) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
