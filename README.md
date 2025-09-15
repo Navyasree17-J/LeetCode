@@ -135,6 +135,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0940-fruit-into-baskets](https://github.com/Navyasree17-J/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navyasree17-J/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Navyasree17-J/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/Navyasree17-J/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Navyasree17-J/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -303,6 +304,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Navyasree17-J/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Navyasree17-J/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navyasree17-J/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
