@@ -1,19 +1,17 @@
 class Solution {
-    public int canBeTypedWords(String text, String broken) {
-        int mask = 0;
-        for (int i = 0; i < broken.length(); i++) {
-            mask |= 1 << (broken.charAt(i) - 97);
-        }
-
-        int count = 0;
-        boolean brokenWord = false;
-        for (int i = 0; i <= text.length(); i++) {
-            if (i < text.length() && (mask & (1 << (text.charAt(i) - 97))) != 0) brokenWord = true;
-            if (i == text.length() || text.charAt(i) == ' ') {
-                if (!brokenWord) count++;
-                brokenWord = false;
+    public int canBeTypedWords(String text, String brokenLetters) {
+        String words[] = text.split(" ");
+        int cnt = 0;
+        outer:
+        for(int i = 0; i < words.length; i++){
+            inner:
+            for(char c: brokenLetters.toCharArray()){
+                if(words[i].indexOf(c) >= 0){
+                    continue outer;
+                }
             }
+            cnt++;
         }
-        return count;
+        return cnt;
     }
 }
