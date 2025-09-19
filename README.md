@@ -615,6 +615,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0620-not-boring-movies](https://github.com/Navyasree17-J/LeetCode/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/Navyasree17-J/LeetCode/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/Navyasree17-J/LeetCode/tree/master/1258-article-views-i) |
+| [1338-queries-quality-and-percentage](https://github.com/Navyasree17-J/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Navyasree17-J/LeetCode/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Navyasree17-J/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/Navyasree17-J/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
