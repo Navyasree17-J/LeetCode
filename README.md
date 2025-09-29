@@ -27,6 +27,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0940-fruit-into-baskets](https://github.com/Navyasree17-J/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Navyasree17-J/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1095-two-city-scheduling](https://github.com/Navyasree17-J/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Navyasree17-J/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navyasree17-J/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Navyasree17-J/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -106,6 +107,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0867-new-21-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Navyasree17-J/LeetCode/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Navyasree17-J/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Navyasree17-J/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Navyasree17-J/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
