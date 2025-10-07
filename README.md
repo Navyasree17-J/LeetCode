@@ -39,6 +39,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Navyasree17-J/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Navyasree17-J/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/Navyasree17-J/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/Navyasree17-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -153,6 +154,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Navyasree17-J/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1500-count-largest-group](https://github.com/Navyasree17-J/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Navyasree17-J/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1813-maximum-erasure-value](https://github.com/Navyasree17-J/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Navyasree17-J/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Navyasree17-J/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -385,6 +387,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0268-missing-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/Navyasree17-J/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/Navyasree17-J/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -510,6 +513,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1448-maximum-69-number](https://github.com/Navyasree17-J/LeetCode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Navyasree17-J/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navyasree17-J/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/Navyasree17-J/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navyasree17-J/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Navyasree17-J/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navyasree17-J/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
@@ -548,6 +552,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0347-top-k-frequent-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0794-swim-in-rising-water](https://github.com/Navyasree17-J/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Navyasree17-J/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/Navyasree17-J/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navyasree17-J/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
