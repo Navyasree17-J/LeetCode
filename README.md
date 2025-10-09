@@ -103,6 +103,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Navyasree17-J/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Navyasree17-J/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Navyasree17-J/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
@@ -459,6 +460,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3639-zero-array-transformation-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Navyasree17-J/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Navyasree17-J/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Number Theory
 |  |
 | ------- |
@@ -622,6 +624,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3336-water-bottles-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Navyasree17-J/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Union Find
 |  |
 | ------- |
