@@ -86,6 +86,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Navyasree17-J/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -127,6 +128,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Navyasree17-J/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Navyasree17-J/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -172,6 +174,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navyasree17-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navyasree17-J/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/Navyasree17-J/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -326,6 +329,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2689-rearranging-fruits](https://github.com/Navyasree17-J/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Navyasree17-J/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
@@ -401,6 +405,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Navyasree17-J/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
@@ -481,6 +486,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navyasree17-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navyasree17-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navyasree17-J/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -546,6 +552,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2128-reverse-prefix-of-word](https://github.com/Navyasree17-J/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Navyasree17-J/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Graph
 |  |
