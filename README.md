@@ -96,6 +96,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Navyasree17-J/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -349,6 +350,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Navyasree17-J/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Navyasree17-J/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## String
 |  |
@@ -428,6 +430,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
@@ -474,6 +477,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2626-count-the-number-of-good-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Navyasree17-J/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
@@ -486,6 +490,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2915-count-of-interesting-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Navyasree17-J/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Navyasree17-J/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
