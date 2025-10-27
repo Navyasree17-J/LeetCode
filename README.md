@@ -60,6 +60,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Navyasree17-J/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Navyasree17-J/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navyasree17-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Navyasree17-J/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Navyasree17-J/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -269,6 +270,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Navyasree17-J/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Navyasree17-J/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -387,6 +389,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2079-delete-duplicate-folders-in-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2128-reverse-prefix-of-word](https://github.com/Navyasree17-J/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navyasree17-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Navyasree17-J/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Navyasree17-J/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2429-design-a-food-rating-system) |
@@ -630,6 +633,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0417-pacific-atlantic-water-flow](https://github.com/Navyasree17-J/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Navyasree17-J/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Navyasree17-J/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Navyasree17-J/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
