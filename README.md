@@ -70,6 +70,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Navyasree17-J/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -644,6 +645,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0498-diagonal-traverse](https://github.com/Navyasree17-J/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Navyasree17-J/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Navyasree17-J/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -689,6 +691,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navyasree17-J/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
