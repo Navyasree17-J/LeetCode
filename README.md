@@ -286,6 +286,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2050-count-good-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Navyasree17-J/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Navyasree17-J/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Navyasree17-J/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -711,6 +712,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1642-water-bottles](https://github.com/Navyasree17-J/LeetCode/tree/master/1642-water-bottles) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Navyasree17-J/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Navyasree17-J/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
