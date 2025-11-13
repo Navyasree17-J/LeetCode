@@ -424,6 +424,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3243-count-the-number-of-powerful-integers](https://github.com/Navyasree17-J/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navyasree17-J/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3462-vowels-game-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Navyasree17-J/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -562,6 +563,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navyasree17-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navyasree17-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Navyasree17-J/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navyasree17-J/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -619,6 +621,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Navyasree17-J/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navyasree17-J/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Navyasree17-J/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Navyasree17-J/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
