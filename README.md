@@ -858,6 +858,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1907-count-salary-categories](https://github.com/Navyasree17-J/LeetCode/tree/master/1907-count-salary-categories) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Navyasree17-J/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Navyasree17-J/LeetCode/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/Navyasree17-J/LeetCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Navyasree17-J/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Probability and Statistics
 |  |
