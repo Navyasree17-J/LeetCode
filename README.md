@@ -836,6 +836,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Navyasree17-J/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Navyasree17-J/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1625-group-sold-products-by-the-date](https://github.com/Navyasree17-J/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
+| [1661-average-time-of-process-per-machine](https://github.com/Navyasree17-J/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Navyasree17-J/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Navyasree17-J/LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
