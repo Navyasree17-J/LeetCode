@@ -833,6 +833,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Navyasree17-J/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1390-average-selling-price](https://github.com/Navyasree17-J/LeetCode/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Navyasree17-J/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Navyasree17-J/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1625-group-sold-products-by-the-date](https://github.com/Navyasree17-J/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Navyasree17-J/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1670-patients-with-a-condition) |
