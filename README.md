@@ -829,6 +829,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1292-immediate-food-delivery-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Navyasree17-J/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Navyasree17-J/LeetCode/tree/master/1338-queries-quality-and-percentage) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Navyasree17-J/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1390-average-selling-price](https://github.com/Navyasree17-J/LeetCode/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Navyasree17-J/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/Navyasree17-J/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
