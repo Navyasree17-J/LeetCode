@@ -846,6 +846,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1827-invalid-tweets](https://github.com/Navyasree17-J/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Navyasree17-J/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Navyasree17-J/LeetCode/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Navyasree17-J/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Probability and Statistics
 |  |
 | ------- |
