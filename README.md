@@ -841,6 +841,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1280-students-and-examinations](https://github.com/Navyasree17-J/LeetCode/tree/master/1280-students-and-examinations) |
 | [1292-immediate-food-delivery-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Navyasree17-J/LeetCode/tree/master/1317-monthly-transactions-i) |
+| [1321-restaurant-growth](https://github.com/Navyasree17-J/LeetCode/tree/master/1321-restaurant-growth) |
 | [1338-queries-quality-and-percentage](https://github.com/Navyasree17-J/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1341-movie-rating](https://github.com/Navyasree17-J/LeetCode/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Navyasree17-J/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
