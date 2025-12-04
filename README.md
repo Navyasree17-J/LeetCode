@@ -823,6 +823,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0584-find-customer-referee](https://github.com/Navyasree17-J/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Navyasree17-J/LeetCode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Navyasree17-J/LeetCode/tree/master/0620-not-boring-movies) |
+| [1068-product-sales-analysis-i](https://github.com/Navyasree17-J/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Navyasree17-J/LeetCode/tree/master/1161-project-employees-i) |
 | [1182-game-play-analysis-iv](https://github.com/Navyasree17-J/LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/Navyasree17-J/LeetCode/tree/master/1258-article-views-i) |
