@@ -150,6 +150,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0118-pascals-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/0120-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0867-new-21-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0867-new-21-game) |
@@ -446,6 +447,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0242-valid-anagram](https://github.com/Navyasree17-J/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Navyasree17-J/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/Navyasree17-J/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0868-push-dominoes](https://github.com/Navyasree17-J/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -696,6 +698,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0141-linked-list-cycle](https://github.com/Navyasree17-J/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/Navyasree17-J/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0868-push-dominoes](https://github.com/Navyasree17-J/LeetCode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Navyasree17-J/LeetCode/tree/master/0908-middle-of-the-linked-list) |
