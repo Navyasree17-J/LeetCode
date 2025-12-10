@@ -115,6 +115,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Navyasree17-J/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navyasree17-J/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Navyasree17-J/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Navyasree17-J/LeetCode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -338,6 +339,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navyasree17-J/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3548-find-the-count-of-good-integers](https://github.com/Navyasree17-J/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Navyasree17-J/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -380,6 +382,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2324-find-triangular-sum-of-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Navyasree17-J/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Navyasree17-J/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Navyasree17-J/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
@@ -890,6 +893,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Navyasree17-J/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Navyasree17-J/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
