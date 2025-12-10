@@ -7,6 +7,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Navyasree17-J/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Navyasree17-J/LeetCode/tree/master/0066-plus-one) |
@@ -690,6 +691,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Navyasree17-J/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0611-valid-triangle-number) |
