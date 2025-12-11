@@ -7,6 +7,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Navyasree17-J/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Navyasree17-J/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/0049-group-anagrams) |
@@ -702,6 +703,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Navyasree17-J/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Navyasree17-J/LeetCode/tree/master/0141-linked-list-cycle) |
