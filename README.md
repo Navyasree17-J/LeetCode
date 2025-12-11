@@ -195,6 +195,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0141-linked-list-cycle](https://github.com/Navyasree17-J/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Navyasree17-J/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Navyasree17-J/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -296,6 +297,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0066-plus-one](https://github.com/Navyasree17-J/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Navyasree17-J/LeetCode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Navyasree17-J/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Navyasree17-J/LeetCode/tree/master/0231-power-of-two) |
@@ -704,6 +706,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Navyasree17-J/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Navyasree17-J/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0611-valid-triangle-number) |
