@@ -447,6 +447,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0043-multiply-strings](https://github.com/Navyasree17-J/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Navyasree17-J/LeetCode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Navyasree17-J/LeetCode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Navyasree17-J/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
@@ -706,6 +707,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navyasree17-J/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Navyasree17-J/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Navyasree17-J/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0202-happy-number) |
