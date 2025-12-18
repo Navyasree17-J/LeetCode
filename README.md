@@ -682,6 +682,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navyasree17-J/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Navyasree17-J/LeetCode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0844-backspace-string-compare](https://github.com/Navyasree17-J/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -817,6 +818,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Navyasree17-J/LeetCode/tree/master/0155-min-stack) |
 | [0969-number-of-recent-calls](https://github.com/Navyasree17-J/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2023-design-movie-rental-system) |
