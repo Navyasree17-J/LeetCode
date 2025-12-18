@@ -18,6 +18,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0120-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Navyasree17-J/LeetCode/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Navyasree17-J/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navyasree17-J/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0268-missing-number) |
@@ -312,6 +313,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0050-powx-n](https://github.com/Navyasree17-J/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Navyasree17-J/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Navyasree17-J/LeetCode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Navyasree17-J/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Navyasree17-J/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
@@ -679,6 +681,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Navyasree17-J/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Navyasree17-J/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0844-backspace-string-compare](https://github.com/Navyasree17-J/LeetCode/tree/master/0844-backspace-string-compare) |
