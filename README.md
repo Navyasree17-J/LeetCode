@@ -36,6 +36,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0759-set-intersection-size-at-least-two](https://github.com/Navyasree17-J/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Navyasree17-J/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Navyasree17-J/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Navyasree17-J/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Navyasree17-J/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -216,6 +217,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0268-missing-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0840-magic-squares-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0900-reordered-power-of-2](https://github.com/Navyasree17-J/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Navyasree17-J/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -332,6 +334,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0679-24-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/Navyasree17-J/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Navyasree17-J/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -799,6 +802,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0417-pacific-atlantic-water-flow](https://github.com/Navyasree17-J/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Navyasree17-J/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/Navyasree17-J/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navyasree17-J/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Navyasree17-J/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
