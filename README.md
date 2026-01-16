@@ -113,6 +113,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Navyasree17-J/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Navyasree17-J/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -260,6 +261,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2689-rearranging-fruits](https://github.com/Navyasree17-J/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Navyasree17-J/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navyasree17-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -445,6 +447,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Navyasree17-J/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Navyasree17-J/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Navyasree17-J/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3548-find-the-count-of-good-integers](https://github.com/Navyasree17-J/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
