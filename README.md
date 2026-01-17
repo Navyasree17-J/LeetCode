@@ -114,6 +114,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2915-count-of-interesting-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Navyasree17-J/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Navyasree17-J/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Navyasree17-J/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -381,6 +382,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Navyasree17-J/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Navyasree17-J/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Navyasree17-J/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Navyasree17-J/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navyasree17-J/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Navyasree17-J/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Navyasree17-J/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -1004,6 +1006,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Navyasree17-J/LeetCode/tree/master/0830-largest-triangle-area) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Navyasree17-J/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Bitmask
 |  |
