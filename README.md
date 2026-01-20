@@ -124,6 +124,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Navyasree17-J/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navyasree17-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Navyasree17-J/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -427,6 +428,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2529-range-product-queries-of-powers](https://github.com/Navyasree17-J/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Navyasree17-J/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Navyasree17-J/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Navyasree17-J/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
