@@ -11,6 +11,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0027-remove-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Navyasree17-J/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Navyasree17-J/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Navyasree17-J/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -174,6 +175,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Navyasree17-J/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/0120-triangle) |
@@ -833,6 +835,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Navyasree17-J/LeetCode/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Navyasree17-J/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Navyasree17-J/LeetCode/tree/master/0498-diagonal-traverse) |
