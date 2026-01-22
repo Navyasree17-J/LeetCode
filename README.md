@@ -17,6 +17,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0088-merge-sorted-array](https://github.com/Navyasree17-J/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Navyasree17-J/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Navyasree17-J/LeetCode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Navyasree17-J/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -180,6 +181,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0070-climbing-stairs](https://github.com/Navyasree17-J/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Navyasree17-J/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Navyasree17-J/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
