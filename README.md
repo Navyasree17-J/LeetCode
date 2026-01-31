@@ -37,6 +37,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0611-valid-triangle-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Navyasree17-J/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Navyasree17-J/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Navyasree17-J/LeetCode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/Navyasree17-J/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Navyasree17-J/LeetCode/tree/master/0830-largest-triangle-area) |
@@ -599,6 +600,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Navyasree17-J/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Navyasree17-J/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Navyasree17-J/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Navyasree17-J/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Navyasree17-J/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
