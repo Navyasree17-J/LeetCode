@@ -165,6 +165,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3623-count-number-of-trapezoids-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3637-trionic-array-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navyasree17-J/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
