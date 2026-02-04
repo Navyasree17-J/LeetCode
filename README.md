@@ -168,6 +168,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3637-trionic-array-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navyasree17-J/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Navyasree17-J/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Navyasree17-J/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -230,6 +231,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3618-find-the-original-typed-string-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Navyasree17-J/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3640-trionic-array-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navyasree17-J/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Navyasree17-J/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Navyasree17-J/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
