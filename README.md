@@ -208,6 +208,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1262-greatest-sum-divisible-by-three](https://github.com/Navyasree17-J/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Navyasree17-J/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Navyasree17-J/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Navyasree17-J/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Navyasree17-J/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -551,6 +552,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Navyasree17-J/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Navyasree17-J/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Navyasree17-J/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Navyasree17-J/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navyasree17-J/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -769,6 +771,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1078-remove-outermost-parentheses](https://github.com/Navyasree17-J/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Navyasree17-J/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navyasree17-J/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2128-reverse-prefix-of-word](https://github.com/Navyasree17-J/LeetCode/tree/master/2128-reverse-prefix-of-word) |
