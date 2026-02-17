@@ -445,6 +445,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Navyasree17-J/LeetCode/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/Navyasree17-J/LeetCode/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Navyasree17-J/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -456,6 +457,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0231-power-of-two](https://github.com/Navyasree17-J/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Navyasree17-J/LeetCode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/Navyasree17-J/LeetCode/tree/master/0401-binary-watch) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Navyasree17-J/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
