@@ -11,6 +11,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0027-remove-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/Navyasree17-J/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Navyasree17-J/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Navyasree17-J/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -191,6 +192,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Navyasree17-J/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Navyasree17-J/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/0118-pascals-triangle) |
@@ -656,6 +658,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Navyasree17-J/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Navyasree17-J/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Navyasree17-J/LeetCode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
