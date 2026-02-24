@@ -326,6 +326,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Navyasree17-J/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navyasree17-J/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Navyasree17-J/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Navyasree17-J/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -340,6 +341,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0386-lexicographical-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Navyasree17-J/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/Navyasree17-J/LeetCode/tree/master/0794-swim-in-rising-water) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navyasree17-J/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Navyasree17-J/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Navyasree17-J/LeetCode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -370,6 +372,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Navyasree17-J/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Navyasree17-J/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/Navyasree17-J/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
