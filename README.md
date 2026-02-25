@@ -74,6 +74,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Navyasree17-J/LeetCode/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Navyasree17-J/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1710-maximum-units-on-a-truck](https://github.com/Navyasree17-J/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Navyasree17-J/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1813-maximum-erasure-value](https://github.com/Navyasree17-J/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Navyasree17-J/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -544,6 +545,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navyasree17-J/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Navyasree17-J/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Navyasree17-J/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1710-maximum-units-on-a-truck](https://github.com/Navyasree17-J/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navyasree17-J/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -855,6 +857,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1612-avoid-flood-in-the-city](https://github.com/Navyasree17-J/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Navyasree17-J/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1710-maximum-units-on-a-truck](https://github.com/Navyasree17-J/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navyasree17-J/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Navyasree17-J/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
