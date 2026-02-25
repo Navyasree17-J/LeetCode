@@ -12,6 +12,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0037-sudoku-solver](https://github.com/Navyasree17-J/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Navyasree17-J/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Navyasree17-J/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Navyasree17-J/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -195,6 +196,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Navyasree17-J/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Navyasree17-J/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/0118-pascals-triangle) |
@@ -838,6 +840,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Navyasree17-J/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/Navyasree17-J/LeetCode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Navyasree17-J/LeetCode/tree/master/0611-valid-triangle-number) |
