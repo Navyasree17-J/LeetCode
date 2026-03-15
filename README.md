@@ -424,6 +424,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1500-count-largest-group](https://github.com/Navyasree17-J/LeetCode/tree/master/1500-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Navyasree17-J/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Navyasree17-J/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/Navyasree17-J/LeetCode/tree/master/1622-fancy-sequence) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Navyasree17-J/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Navyasree17-J/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Navyasree17-J/LeetCode/tree/master/1642-water-bottles) |
@@ -715,6 +716,7 @@ LeetCode is a coding platform to learn how to write the codes.
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Navyasree17-J/LeetCode/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3454-separate-squares-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1012,6 +1014,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | ------- |
 | [0155-min-stack](https://github.com/Navyasree17-J/LeetCode/tree/master/0155-min-stack) |
 | [0969-number-of-recent-calls](https://github.com/Navyasree17-J/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1622-fancy-sequence](https://github.com/Navyasree17-J/LeetCode/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2429-design-a-food-rating-system) |
