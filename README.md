@@ -46,6 +46,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0794-swim-in-rising-water](https://github.com/Navyasree17-J/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Navyasree17-J/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Navyasree17-J/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Navyasree17-J/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Navyasree17-J/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -292,6 +293,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0347-top-k-frequent-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0840-magic-squares-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/Navyasree17-J/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/Navyasree17-J/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Navyasree17-J/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1090,6 +1092,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0498-diagonal-traverse](https://github.com/Navyasree17-J/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Navyasree17-J/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/Navyasree17-J/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0874-walking-robot-simulation](https://github.com/Navyasree17-J/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Navyasree17-J/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Navyasree17-J/LeetCode/tree/master/1642-water-bottles) |
