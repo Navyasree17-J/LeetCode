@@ -122,6 +122,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2402-meeting-rooms-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/Navyasree17-J/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Navyasree17-J/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Navyasree17-J/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2573-find-the-string-with-lcp](https://github.com/Navyasree17-J/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -258,6 +259,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2463-minimum-total-distance-traveled](https://github.com/Navyasree17-J/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Navyasree17-J/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Navyasree17-J/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -597,6 +599,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Navyasree17-J/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/2402-meeting-rooms-iii) |
+| [2463-minimum-total-distance-traveled](https://github.com/Navyasree17-J/LeetCode/tree/master/2463-minimum-total-distance-traveled) |
 | [2689-rearranging-fruits](https://github.com/Navyasree17-J/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/Navyasree17-J/LeetCode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
