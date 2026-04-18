@@ -498,6 +498,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3637-count-number-of-balanced-permutations](https://github.com/Navyasree17-J/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Navyasree17-J/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navyasree17-J/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Navyasree17-J/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Navyasree17-J/LeetCode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Backtracking
