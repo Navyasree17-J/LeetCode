@@ -97,6 +97,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Navyasree17-J/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2023-design-movie-rental-system) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Navyasree17-J/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Navyasree17-J/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -950,6 +951,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/Navyasree17-J/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Navyasree17-J/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Navyasree17-J/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navyasree17-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
