@@ -685,6 +685,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2470-removing-stars-from-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Navyasree17-J/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/Navyasree17-J/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Navyasree17-J/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
@@ -887,6 +888,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Navyasree17-J/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navyasree17-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2833-furthest-point-from-origin](https://github.com/Navyasree17-J/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navyasree17-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Navyasree17-J/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
