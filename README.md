@@ -31,6 +31,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0283-move-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Navyasree17-J/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Navyasree17-J/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Navyasree17-J/LeetCode/tree/master/0455-assign-cookies) |
@@ -243,6 +244,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0338-counting-bits](https://github.com/Navyasree17-J/LeetCode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Navyasree17-J/LeetCode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/Navyasree17-J/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0494-target-sum) |
@@ -459,6 +461,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0326-power-of-three](https://github.com/Navyasree17-J/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Navyasree17-J/LeetCode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0396-rotate-function](https://github.com/Navyasree17-J/LeetCode/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Navyasree17-J/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
