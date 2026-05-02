@@ -250,6 +250,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0494-target-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Navyasree17-J/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Navyasree17-J/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/Navyasree17-J/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Navyasree17-J/LeetCode/tree/master/0799-champagne-tower) |
 | [0867-new-21-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Navyasree17-J/LeetCode/tree/master/0868-push-dominoes) |
@@ -465,6 +466,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0679-24-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/Navyasree17-J/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Navyasree17-J/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/Navyasree17-J/LeetCode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/Navyasree17-J/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0867-new-21-game) |
