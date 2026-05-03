@@ -669,6 +669,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0696-count-binary-substrings](https://github.com/Navyasree17-J/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Navyasree17-J/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0761-special-binary-string](https://github.com/Navyasree17-J/LeetCode/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/Navyasree17-J/LeetCode/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Navyasree17-J/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0868-push-dominoes](https://github.com/Navyasree17-J/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -1308,6 +1309,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Navyasree17-J/LeetCode/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/Navyasree17-J/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Navyasree17-J/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Line Sweep
