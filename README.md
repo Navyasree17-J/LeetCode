@@ -202,6 +202,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3623-count-number-of-trapezoids-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Navyasree17-J/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Navyasree17-J/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -374,6 +375,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3606-coupon-code-validator](https://github.com/Navyasree17-J/LeetCode/tree/master/3606-coupon-code-validator) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Navyasree17-J/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3678-design-task-manager](https://github.com/Navyasree17-J/LeetCode/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3713-longest-balanced-substring-i) |
@@ -433,6 +435,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1970-last-day-where-you-can-still-cross](https://github.com/Navyasree17-J/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Navyasree17-J/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Navyasree17-J/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Navyasree17-J/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/Navyasree17-J/LeetCode/tree/master/3863-power-grid-maintenance) |
@@ -523,6 +526,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Navyasree17-J/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Navyasree17-J/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Navyasree17-J/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -903,6 +907,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Navyasree17-J/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Navyasree17-J/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Counting
 |  |
 | ------- |
