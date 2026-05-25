@@ -281,6 +281,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1668-maximum-repeating-substring](https://github.com/Navyasree17-J/LeetCode/tree/master/1668-maximum-repeating-substring) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Navyasree17-J/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-jump-game-vii](https://github.com/Navyasree17-J/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Navyasree17-J/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Navyasree17-J/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Navyasree17-J/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -724,6 +725,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Navyasree17-J/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Navyasree17-J/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Navyasree17-J/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-jump-game-vii](https://github.com/Navyasree17-J/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Navyasree17-J/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navyasree17-J/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Navyasree17-J/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -871,6 +873,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0940-fruit-into-baskets](https://github.com/Navyasree17-J/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Navyasree17-J/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Navyasree17-J/LeetCode/tree/master/1813-maximum-erasure-value) |
+| [1871-jump-game-vii](https://github.com/Navyasree17-J/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Navyasree17-J/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Navyasree17-J/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Navyasree17-J/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -895,6 +898,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Navyasree17-J/LeetCode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/Navyasree17-J/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Navyasree17-J/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/Navyasree17-J/LeetCode/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Navyasree17-J/LeetCode/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Navyasree17-J/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
