@@ -178,6 +178,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3225-maximum-score-from-grid-operations](https://github.com/Navyasree17-J/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navyasree17-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -538,6 +539,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Navyasree17-J/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Navyasree17-J/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Navyasree17-J/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navyasree17-J/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
