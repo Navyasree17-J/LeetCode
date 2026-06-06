@@ -146,6 +146,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2540-minimum-common-value](https://github.com/Navyasree17-J/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Navyasree17-J/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/Navyasree17-J/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Navyasree17-J/LeetCode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Navyasree17-J/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Navyasree17-J/LeetCode/tree/master/2625-increment-submatrices-by-one) |
@@ -922,6 +923,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2249-count-the-hidden-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/Navyasree17-J/LeetCode/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/Navyasree17-J/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/Navyasree17-J/LeetCode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Navyasree17-J/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Navyasree17-J/LeetCode/tree/master/2625-increment-submatrices-by-one) |
