@@ -188,6 +188,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3225-maximum-score-from-grid-operations](https://github.com/Navyasree17-J/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navyasree17-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navyasree17-J/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
@@ -491,6 +492,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1970-last-day-where-you-can-still-cross](https://github.com/Navyasree17-J/LeetCode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/Navyasree17-J/LeetCode/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Navyasree17-J/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Navyasree17-J/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -1181,6 +1183,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2402-meeting-rooms-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navyasree17-J/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1226,6 +1229,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Navyasree17-J/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Navyasree17-J/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -1244,6 +1248,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Navyasree17-J/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Navyasree17-J/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -1460,6 +1465,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Navyasree17-J/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Navyasree17-J/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Navyasree17-J/LeetCode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Binary Search Tree
