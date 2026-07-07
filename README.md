@@ -603,6 +603,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Navyasree17-J/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Navyasree17-J/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Navyasree17-J/LeetCode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
