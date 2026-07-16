@@ -269,6 +269,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3797-design-spreadsheet](https://github.com/Navyasree17-J/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Navyasree17-J/LeetCode/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -619,6 +620,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3783-mirror-distance-of-an-integer](https://github.com/Navyasree17-J/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Navyasree17-J/LeetCode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -756,6 +758,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Navyasree17-J/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Navyasree17-J/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -1040,6 +1043,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Navyasree17-J/LeetCode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navyasree17-J/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Navyasree17-J/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -1187,6 +1191,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Navyasree17-J/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Graph
 |  |
 | ------- |
@@ -1347,6 +1352,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Navyasree17-J/LeetCode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union Find
 |  |
 | ------- |
