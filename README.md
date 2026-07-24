@@ -214,6 +214,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navyasree17-J/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3531-count-covered-buildings](https://github.com/Navyasree17-J/LeetCode/tree/master/3531-count-covered-buildings) |
@@ -606,6 +607,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3462-vowels-game-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navyasree17-J/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Navyasree17-J/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3548-find-the-count-of-good-integers](https://github.com/Navyasree17-J/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -666,6 +668,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Navyasree17-J/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Navyasree17-J/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
