@@ -422,6 +422,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2915-count-of-interesting-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Navyasree17-J/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navyasree17-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -770,6 +771,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navyasree17-J/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -859,6 +861,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Navyasree17-J/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/Navyasree17-J/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1097,6 +1100,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2174-next-greater-numerically-balanced-number](https://github.com/Navyasree17-J/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navyasree17-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2833-furthest-point-from-origin](https://github.com/Navyasree17-J/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Navyasree17-J/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Navyasree17-J/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1184,6 +1188,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2689-rearranging-fruits](https://github.com/Navyasree17-J/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Navyasree17-J/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Navyasree17-J/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Navyasree17-J/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
