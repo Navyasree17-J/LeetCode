@@ -53,6 +53,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0830-largest-triangle-area](https://github.com/Navyasree17-J/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Navyasree17-J/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Navyasree17-J/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Navyasree17-J/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -304,6 +305,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0799-champagne-tower](https://github.com/Navyasree17-J/LeetCode/tree/master/0799-champagne-tower) |
 | [0867-new-21-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/Navyasree17-J/LeetCode/tree/master/0868-push-dominoes) |
+| [0877-stone-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Navyasree17-J/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Navyasree17-J/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -567,6 +569,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [0830-largest-triangle-area](https://github.com/Navyasree17-J/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/Navyasree17-J/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Navyasree17-J/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -1517,6 +1520,7 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Navyasree17-J/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
 |  |
