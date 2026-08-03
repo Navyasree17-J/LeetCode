@@ -76,6 +76,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Navyasree17-J/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Navyasree17-J/LeetCode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1406-stone-game-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navyasree17-J/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Navyasree17-J/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navyasree17-J/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -311,6 +312,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1262-greatest-sum-divisible-by-three](https://github.com/Navyasree17-J/LeetCode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/Navyasree17-J/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Navyasree17-J/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1406-stone-game-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/1406-stone-game-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Navyasree17-J/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Navyasree17-J/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Navyasree17-J/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -574,6 +576,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1015-smallest-integer-divisible-by-k](https://github.com/Navyasree17-J/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Navyasree17-J/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Navyasree17-J/LeetCode/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/1406-stone-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Navyasree17-J/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Navyasree17-J/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Navyasree17-J/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -1521,6 +1524,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | ------- |
 | [0486-predict-the-winner](https://github.com/Navyasree17-J/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Navyasree17-J/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
 |  |
@@ -1593,4 +1597,12 @@ LeetCode is a coding platform to learn how to write the codes.
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Navyasree17-J/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
