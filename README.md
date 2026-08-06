@@ -622,6 +622,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Navyasree17-J/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Navyasree17-J/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navyasree17-J/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -722,6 +723,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Navyasree17-J/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Navyasree17-J/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
