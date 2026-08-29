@@ -182,6 +182,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2915-count-of-interesting-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navyasree17-J/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Navyasree17-J/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Navyasree17-J/LeetCode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -791,6 +792,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/Navyasree17-J/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1605,6 +1607,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Navyasree17-J/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/Navyasree17-J/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/Navyasree17-J/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Navyasree17-J/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
