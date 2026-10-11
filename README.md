@@ -149,6 +149,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Navyasree17-J/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Navyasree17-J/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -787,6 +788,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2126-destroying-asteroids](https://github.com/Navyasree17-J/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Navyasree17-J/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Navyasree17-J/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Navyasree17-J/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Navyasree17-J/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/2402-meeting-rooms-iii) |
@@ -959,6 +961,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Navyasree17-J/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Navyasree17-J/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Navyasree17-J/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Navyasree17-J/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/Navyasree17-J/LeetCode/tree/master/2540-minimum-common-value) |
@@ -1216,6 +1219,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2126-destroying-asteroids](https://github.com/Navyasree17-J/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Navyasree17-J/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Navyasree17-J/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Navyasree17-J/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Navyasree17-J/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2573-find-the-string-with-lcp](https://github.com/Navyasree17-J/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -1298,6 +1302,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [1917-maximum-average-pass-ratio](https://github.com/Navyasree17-J/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Navyasree17-J/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2402-meeting-rooms-iii](https://github.com/Navyasree17-J/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Navyasree17-J/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
