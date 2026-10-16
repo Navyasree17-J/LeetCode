@@ -183,6 +183,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/Navyasree17-J/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navyasree17-J/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -434,6 +435,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Navyasree17-J/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Navyasree17-J/LeetCode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1001,11 +1003,13 @@ LeetCode is a coding platform to learn how to write the codes.
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Navyasree17-J/LeetCode/tree/master/1622-fancy-sequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Navyasree17-J/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3454-separate-squares-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
