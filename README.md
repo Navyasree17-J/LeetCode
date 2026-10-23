@@ -258,6 +258,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Navyasree17-J/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Navyasree17-J/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Navyasree17-J/LeetCode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Navyasree17-J/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Navyasree17-J/LeetCode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -707,6 +708,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Navyasree17-J/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Navyasree17-J/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
