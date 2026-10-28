@@ -290,6 +290,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Navyasree17-J/LeetCode/tree/master/3863-power-grid-maintenance) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Navyasree17-J/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -375,6 +376,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -718,6 +720,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Navyasree17-J/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Navyasree17-J/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Navyasree17-J/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1384,6 +1387,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [3742-maximum-path-score-in-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Navyasree17-J/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Navyasree17-J/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
