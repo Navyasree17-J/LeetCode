@@ -196,6 +196,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Navyasree17-J/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Navyasree17-J/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Navyasree17-J/LeetCode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Navyasree17-J/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3093-longest-common-suffix-queries](https://github.com/Navyasree17-J/LeetCode/tree/master/3093-longest-common-suffix-queries) |
@@ -352,6 +353,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Navyasree17-J/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Navyasree17-J/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Navyasree17-J/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Navyasree17-J/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -827,6 +829,7 @@ LeetCode is a coding platform to learn how to write the codes.
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Navyasree17-J/LeetCode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Navyasree17-J/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Navyasree17-J/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Navyasree17-J/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3321-type-of-triangle](https://github.com/Navyasree17-J/LeetCode/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Navyasree17-J/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Navyasree17-J/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
